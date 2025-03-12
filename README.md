@@ -5,11 +5,11 @@ I’m currently preparing for the *ENEM* and working on improving my understandi
   
 
   <a href="https://github.com/Clara-Serafim">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Clara-Serafim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Clara-Serafim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/Clara-Serafim">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Serafim&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Serafim&layout=compact&langs_count=16&theme=gotham"/>
   </a>
 
 ## 📬 How to reach me?
