@@ -1,7 +1,7 @@
 # 🦇 Hello! Welcome to my GitHub profile!
 
 ## 📚 What am I doing?
-I’m currently preparing for the *ENEM* and working on improving my understanding of *programming, while also strengthening my **full-stack development* skills.
+I’m currently preparing for the *ENEM* and working on improving my understanding of *programming, while also strengthening my **full-stack development** skills.
 
 <a href="https://judge.beecrowd.com/pt/profile/1061891"> beecrowd
   </a>
