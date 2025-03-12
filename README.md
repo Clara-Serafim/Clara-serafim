@@ -17,5 +17,5 @@ I’m currently preparing for the *ENEM* and working on improving my understandi
 📧 *Email:* [serafimmcss@gmail.com](mailto:serafimmcss@gmail.com)  
 💼 *LinkedIn:* [Clara Serafim](https://www.linkedin.com/in/clara-serafim-b57282356/)
 
-![BATMAN](assets/batmangif)
+![BATMAN](assets/videoplayback (3).mp4)
 </div>
